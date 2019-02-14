@@ -8,3 +8,8 @@
 
 #### 3.titanic1.ipynb
 kaggle泰坦尼克的例子
+  [参考1](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12282042.0.0.1dce290aVqiKjk&postId=6772)
+  [参考2](https://blog.csdn.net/Koala_Tree/article/details/78725881)
+  [kaggle中的数据说明](https://www.kaggle.com/c/titanic/data)
+
+#### to be continued
